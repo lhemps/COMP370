@@ -1,0 +1,7 @@
+Theses are the categories I came up with:
+    1. Administration: these are posts which are related to the school as an institution, but not academics specifically (ie. policy discussions, institutional management)
+    2. General Montreal: these are posts which aren't directly related to the school or academics, but the general Montreal communtiy (ie. selling tickets for external events, complaining about the STM, looking for community resources outside the school, job postings)
+    3. Student Life: these are posts which are related to being a student, but not the institution specifically (ie. finding friends, clubs, sharing study locations, warnings about job scams)
+    4. Registration: these are posts which are related to the academic administrative process but not actual academics (ie. exchange semester, faculty transfer process, registration issues, admission questions)
+    5. Broad Academics: these are posts which are specifically about academics, but not one single class (ie. comparing programs, courseload questions, academic advising)
+    6. Class Specific: these are posts which are about one specific class (ie. venting about a test or assignment, evaluating the prof, finding a class specific tutor, reviews of course material)
